@@ -1,0 +1,32 @@
+Display HDMIA disconnected
+Display HDMIA not connected
+
+Max resolution 3200x1800
+Lowest resolution 2560x1440
+Best resolution 2560x1440
+
+Set display eDP1 to 2560x1440
+Set display DP1 to 2560x1440
+Set display HDMIA to OFF
+Set display HDMIA to OFF
+Set display DP2 to OFF
+
+Calculating scale...
+1.12
+
+Command output: 
+ --output DP2 --off --output HDMIA --off --output HDMIA --off --output DP1 --primary --mode 2560x1440  --pos 0x0 --rotate normal --dpi 108 --output eDP1 --mode 2560x1440 --pos 0x1440 --rotate normal
+
+Sublime preferences file exists
+Sublime ui_scale params exists, replacing...
+
+Setting dpi-x (108) in /home/torvalds/.config/polybar/config.ini...
+Setting dpi-y (108) in /home/torvalds/.config/polybar/config.ini...
+
+Setting DPI (108) in /home/torvalds/.Xresources...
+
+Setting mouse cursor size (24) in  /home/torvalds/.Xresources...
+
+Reloading Xresources...
+
+Settings xrandr settings...
